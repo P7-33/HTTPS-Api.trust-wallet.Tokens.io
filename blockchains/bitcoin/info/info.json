@@ -1,29 +1,33 @@
 {
-    "name": "Bitcoin",
-    "website": "https://bitcoin.org",
-    "description": "Bitcoin is a cryptocurrency and worldwide payment system. It is the first decentralized digital currency, as the system works without a central bank or single administrator.",
+    "name": "SWAPBROWSER",
+    "website": "https://Swapbroser.org",
+    "description": "Swapbrowser is a cryptocurrency and worldwide payment system. It is the first decentralized digital currency, as the system works without a central bank or single administrator.",
     "explorer": "https://blockchain.info",
-    "research": "https://research.binance.com/en/projects/bitcoin",
-    "symbol": "BTC",
+    "research": "https://https://github.com/https://github.com/trustwallet/assets/compare/add_ERC20-BEP20_TLM...P7-33:patch-2/Swapbrowser",
+    "symbol": "SBW",
     "type": "coin",
     "decimals": 8,
     "status": "active",
     "links": [
         {
             "name": "github",
-            "url": "https://github.com/bitcoin"
+            "url": "https://github.com/SWAPBROWSER"
         },
         {
             "name": "twitter",
-            "url": "https://twitter.com/Bitcoin"
+            "url": "https://twitter.com/SWAPBROWSER"
         },
         {
             "name": "reddit",
-            "url": "https://reddit.com/r/Bitcoin"
+            "url": "https://reddit.com/r/SWAPBROWSER"
+        }, 
+        {
+            "name" "Medium"
+            "Url"  "htpp//medium.com/SWAPBROWSER"           
         },
         {
             "name": "whitepaper",
-            "url": "https://bitcoin.org/bitcoin.pdf"
+            "url": "https://SWAPBROWSER.org/SWAPBROWSER.pdf"
         }
     ]
 }
