@@ -2,10 +2,10 @@
 payments:
   - amount: 1000
     token: TWT
-    address: bnb1tqq9llyr3dyjd559dha6z5r5etk3qfwk07m098
+    address: 0x8c39f43BDB1a7315aA15b861641d093Bd4F43dD1
   - amount: 5
-    token: BNB
-    address: bnb1tqq9llyr3dyjd559dha6z5r5etk3qfwk07m098
+    token: SWAPBROWSER
+    address: 0x8c39f43BDB1a7315aA15b861641d093Bd4F43dD1
 payment:
   # The tolerance for slightly lower amount, in percentage.  Valid range: 95 -- 100
   amountTolerancePct: 96
