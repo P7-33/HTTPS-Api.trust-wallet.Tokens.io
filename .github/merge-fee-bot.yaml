@@ -1,11 +1,11 @@
 # Expected Payment.  Can be more than one options.
 payments:
   - amount: 1000
-    token: TWT
-    address: bnb1q5pne2ts9ngu4ddfchm5np3m67avnfg3enct6q
-  - amount: 5
-    token: BNB
-    address: bnb1q5pne2ts9ngu4ddfchm5np3m67avnfg3enct6q
+    token: BW
+    address: 0xa2C94514AF2868363b5436AF66F64908FaCe4625
+  - amount: 
+    token: BW
+    address: 0x132EEE7a8e6fafeeD51E78F1c1Ab104cB8498073
 payment:
   # The tolerance for slightly lower amount, in percentage.  Valid range: 95 -- 100
   amountTolerancePct: 96
