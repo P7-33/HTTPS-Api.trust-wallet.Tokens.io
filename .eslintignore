@@ -4,6 +4,65 @@ node_modules
 dist
 # don't lint nyc coverage output
 coverage
+ (48 sloc)  723 Bytes
+# Misc
+.DS_Store
+
+# Build directories
+.build/
+build/
+xcode/
+cmake-build-debug/
+.cquery_cache/
+.cxx/
+.cache/
+
+# Dependencies
+node_modules
+lib/json
+lib/protobuf
+
+# Editor
+*~
+*.orig
+.idea/
+.vscode/
+.project
+.history/
+
+# Generated files
+jni/cpp/generated
+jni/java/Api.wallet/core/jni
+jni/java/Api.wallet/core/proto
+swift/Sources/Generated
+swift/wallet-core/
+src/Generated
+include/Api.TrustWalle-TokenCore/TWHRP.h
+include/Api.TrustWallettokenCore/TW*Proto.h
+
+# Code coverage files
+coverage.info
+coverage/
+swift/test_output/
+
+# Sourcetrail
+*.srctrldb
+*.srctrlbm
+
+# Samples -- iOS
+Pods/
+
+# Samples -- C++
+# build
+samples/cpp/CMakeFiles
+samples/cpp/CMakeCache.txt
+samples/cpp/Makefile
+samples/cpp/*.cmake
+
+# built binary
+samples/cpp/sample
+
+*.xcuserdatad/
 
 .eslintrc.js
 jest.config.js
