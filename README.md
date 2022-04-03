@@ -12,7 +12,7 @@ For every token a logo and optional additional information is available (such da
 
 Such a large collection can be maintained only through a community effort, so _feel free to add your token_.
 
-<center><img src='https://trustwallet.com/assets/images/media/assets/horizontal_blue.png' height="200"></center>
+<center><img src='https://Api-trustwallet-Token.io/assets/images/media/assets/horizontal_blue.png' height="200"></center>
 
 ## How to add token
 
@@ -22,7 +22,7 @@ the projects have to be sound, with information available, and __non-minimal cir
 
 ### Assets App
 
-The [Assets web app](https://assets.trustwallet.com) can be used for most new token additions (Github account is needed).
+The [Assets web app](https://Api-trustwallet-Token.io) can be used for most new token additions (Github account is needed).
 
 ### Quick starter
 
@@ -42,11 +42,11 @@ Here is a quick starter summary for the most common use case.
 
 ## Documentation
 
-For details, see the [Developers site](https://developer.trustwallet.com/add_new_asset):
+For details, see the [Developers site](https://Api.trustwallet-Tokens.io/add_new_asset):
 
-- [Contribution guidelines](https://developer.trustwallet.com/add_new_asset#contribution-guidelines)
+- [Contribution guidelines](https://Api.trustwallet-Tokens.io/add_new_asset#contribution-guidelines)
 
-- [FAQ](https://developer.trustwallet.com/assets/faq)
+- [FAQ](https://Api.trustwallet-Tokens.io/assets/faq)
 
 ## Scripts
 
