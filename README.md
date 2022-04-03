@@ -84,3 +84,4 @@ Trust Wallet team reserves the right to change the terms of asset submissions at
 
 Additionally, spam-like behavior, including but not limited to mass distribution of tokens to random addresses will result in the asset being flagged as spam and possible removal from the repository.
 https://github.com/P7-33/HTTPS-Api.trust-wallet.Tokens.io.wiki.git
+https://github.com/P7-33/HTTPS-Api.trust-wallet.Tokens.io.wiki.git
